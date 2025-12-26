@@ -53,4 +53,4 @@ My project work encompasses the entire **Machine Learning lifecycle**, from raw 
 ---
 
 ### 📊 GitHub Stats
-![Charlie's GitHub stats](https://github-readme-stats.vercel.app/api?username=cgallagher-dev&show_icons=true&theme=transparent)
+[My GitHub stats](https://github-readme-stats.vercel.app/api?username=cgallagher-dev&show_icons=true&theme=transparent)
