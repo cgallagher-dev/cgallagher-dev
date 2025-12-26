@@ -38,9 +38,9 @@ My project work encompasses the entire **Machine Learning lifecycle**, from raw 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[BEESAFE](https://github.com/cgallagher-dev/bee-safe-cv)** | Edge AI computer vision for Varroa mite detection in honeybees. | Roboflow, ONNX, TFLite |
 | **[Mushroom Classifier](https://github.com/cgallagher-dev/mushroom-classifier)** | Binary classification using DecisionTrees and One-Hot encoding. | Python, Scikit-learn |
 | **[Distributed Inventory](https://github.com/cgallagher-dev/distributed-inventory-manager)** | Multi-user inventory management system with secure persistence. | Python, SQL |
+| **[Enterprise Resource Controller](https://github.com/cgallagher-dev/enterprise-resource-controller)** | Distributed system implementing MVC architecture and Remote Method Invocation (RMI). | Java, RMI, MVC |
 
 ---
 
